@@ -15,6 +15,32 @@ This project outlines the design and creation of a Book publishing system relati
 
 
 <h2>Program walk-through:</h2>
+:
+
+- <b>Entity–Relationship (ER) modeling</b> 
+- <b>SQL table creation (schema design)</b>
+- <b>Data population and insertion</b> 
+- <b>SQL queries for business insights (e.g., books by author, inventory counts, pricing analysis)</b>
+- <b>Constraints and indexing </b> 
+- <b>Aggregations using GROUP BY and conditional logic with CASE</b>
+- <b>Database normalization practices</b> 
+
+
+
+
+ <b>
+Entity–Relationship (ER) modeling <b>
+ <b>SQL table creation (schema design) <b>
+ <b>Data population and insertion <b>
+ <b>SQL queries for business insights (e.g., books by author, inventory counts, pricing analysis) <b>
+ <b>Constraints and indexing <b>
+ <b>Aggregations using GROUP BY and conditional logic with CASE <b>
+ <b>Database normalization practices <b>
+ <b>Database</b> 
+
+<h2>Program walk-through:</h2>
+
+
 
 <p align="center">
 ER Diagram:
