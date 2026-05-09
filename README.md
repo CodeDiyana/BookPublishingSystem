@@ -8,10 +8,6 @@ This project outlines the design and creation of a Book publishing system relati
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
-
-- <b>Database</b> 
-- <b>MySql</b>
 
 
 <h2>Program walk-through:</h2>
